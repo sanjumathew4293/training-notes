@@ -1,0 +1,17 @@
+Getting Started with Git - Pluralsight 
+
+Git Commands
+git config --global user.name "Sanju Mathew" //set global user name for all projects
+git config --global user.email "sanjumathew4293@gmail.com" //set global email for all projects
+git config user.name //to read user name
+git config user.email //to read email
+
+For associating username, email with a specific project
+Go to directory
+git config user.name "Kelly"
+
+To Check Git Config Settings
+git config --list
+
+Help Guide 
+git --help
